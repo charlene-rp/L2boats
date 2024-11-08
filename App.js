@@ -14,7 +14,7 @@ const AllBoats = () => {
                 name="SEA RAY 500 SUNDANCER"
                 description="Contoured lines and dramatic styling reveal a refined and powerful presence that will take your breath away."
                 image={require('./img/sea_ray.jpg')}
-                backgroundColor="#e0f7fa"   // pastel cyan
+                backgroundColor="#e0f7fa"
                 borderColor="#00acc1"
             />
             <Boat
@@ -22,7 +22,7 @@ const AllBoats = () => {
                 name="FOUR WINNS HORIZON 180"
                 description="A sporty look and refined details truly set the Horizon 180 above all others."
                 image={require('./img/four_winns.jpg')}
-                backgroundColor="#e1bee7"  // pastel purple
+                backgroundColor="#e1bee7"
                 borderColor="#8e24aa"
             />
             <Boat
